@@ -1,0 +1,14 @@
+D:\kuliah\daspro\uas\bin\Debug\net7.0\UAS.exe
+D:\kuliah\daspro\uas\bin\Debug\net7.0\UAS.deps.json
+D:\kuliah\daspro\uas\bin\Debug\net7.0\UAS.runtimeconfig.json
+D:\kuliah\daspro\uas\bin\Debug\net7.0\UAS.dll
+D:\kuliah\daspro\uas\bin\Debug\net7.0\UAS.pdb
+D:\kuliah\daspro\uas\obj\Debug\net7.0\UAS.GeneratedMSBuildEditorConfig.editorconfig
+D:\kuliah\daspro\uas\obj\Debug\net7.0\UAS.AssemblyInfoInputs.cache
+D:\kuliah\daspro\uas\obj\Debug\net7.0\UAS.AssemblyInfo.cs
+D:\kuliah\daspro\uas\obj\Debug\net7.0\UAS.csproj.CoreCompileInputs.cache
+D:\kuliah\daspro\uas\obj\Debug\net7.0\UAS.dll
+D:\kuliah\daspro\uas\obj\Debug\net7.0\refint\UAS.dll
+D:\kuliah\daspro\uas\obj\Debug\net7.0\UAS.pdb
+D:\kuliah\daspro\uas\obj\Debug\net7.0\UAS.genruntimeconfig.cache
+D:\kuliah\daspro\uas\obj\Debug\net7.0\ref\UAS.dll
